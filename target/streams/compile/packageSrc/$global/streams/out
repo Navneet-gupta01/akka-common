@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/navneetgupta/Desktop/mybitbuckets/github/akka_projects/akka-common/target/scala-2.12/akka-common_2.12-0.1.0-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/navneetgupta/akka/common/ErrorResponse.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/navneetgupta/Desktop/mybitbuckets/github/akka_projects/akka-common/src/main/scala/com/navneetgupta/akka/common/ErrorResponse.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/navneetgupta/akka/common/ApiResponse.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/navneetgupta/Desktop/mybitbuckets/github/akka_projects/akka-common/src/main/scala/com/navneetgupta/akka/common/ApiResponse.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/navneetgupta/akka/common/ServiceResult.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/navneetgupta/Desktop/mybitbuckets/github/akka_projects/akka-common/src/main/scala/com/navneetgupta/akka/common/ServiceResult.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/navneetgupta/akka/common/BaseRouteDefination.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/navneetgupta/Desktop/mybitbuckets/github/akka_projects/akka-common/src/main/scala/com/navneetgupta/akka/common/BaseRouteDefination.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/navneetgupta/akka/common/BaseActor.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/navneetgupta/Desktop/mybitbuckets/github/akka_projects/akka-common/src/main/scala/com/navneetgupta/akka/common/BaseActor.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/navneetgupta/akka/common/Bootstrap.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/navneetgupta/Desktop/mybitbuckets/github/akka_projects/akka-common/src/main/scala/com/navneetgupta/akka/common/Bootstrap.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/navneetgupta/akka/common/Server.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/navneetgupta/Desktop/mybitbuckets/github/akka_projects/akka-common/src/main/scala/com/navneetgupta/akka/common/Server.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
